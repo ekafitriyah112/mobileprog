@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const Fashionkita = () => {
+const Contact = () => {
   return (
     <View>
-      <Text>Fashionkita</Text>
+      <Text>Contact</Text>
     </View>
   )
 }
 
-export default Fashionkita
+export default Contact
 
 const styles = StyleSheet.create({})
